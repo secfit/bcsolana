@@ -1,0 +1,6 @@
+[package]
+name = "bootcamp_solana_2025_w1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
