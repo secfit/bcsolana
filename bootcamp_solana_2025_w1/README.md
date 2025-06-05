@@ -2,7 +2,7 @@
 
 This project contains Rust programming exercises for Week 1 of the Solana Bootcamp 2025.
 
-## ?? Project Structure
+## Project Structure
 
 This Rust project includes two main examples:
 
@@ -17,7 +17,7 @@ This Rust project includes two main examples:
    - Example:  
      Input: `[2, 7, 11, 15]`, Target: `9` ? Output: `[0, 1]`
 
-## ?? How to Run
+## How to Run
 
 Make sure you have Rust installed. If not, install it from: https://rustup.rs
 
